@@ -61,7 +61,7 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
     title="Illustrator"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" 
   />
 
 <img 

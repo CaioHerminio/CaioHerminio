@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Caio Hermínio
+# 🧐 Caio Hermínio
 
 **`Desenvolvedor FullStack`**
 

@@ -12,9 +12,7 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
     />
   </a>
-</p>
 
-<p align="left">
   <a href="[https://www.artstation.com/seuusuario](https://www.artstation.com/caiohsf/albums/1578957)" target="_blank">
     <img 
       alt="Portfólio 3D" 

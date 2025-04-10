@@ -15,15 +15,14 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
 </p>
 
 <p align="left">
-  <a href="https://www.artstation.com/caiohsf/albums/1578957" target="_blank">
+  <a href="[https://www.artstation.com/seuusuario](https://www.artstation.com/caiohsf/albums/1578957)" target="_blank">
     <img 
       alt="Portfólio 3D" 
       title="Veja meu portfólio de arte 3D" 
-      src="https://img.shields.io/badge/Portfólio-3D-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white" 
+      src="https://img.shields.io/badge/Portfólio-3D-%23191919.svg?style=for-the-badge&logo=artstation&logoColor=white" 
     />
   </a>
 </p>
-
 
 <br/>
 <br/>

@@ -17,7 +17,7 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
     <img 
       alt="Portfólio 3D" 
       title="Veja meu portfólio de arte 3D" 
-      src="https://img.shields.io/badge/Portfólio-3D-%23191919.svg?style=for-the-badge&logo=artstation&logoColor=white" 
+      src="https://img.shields.io/badge/Portfólio-3D-FF6C00?style=for-the-badge&logo=artstation&logoColor=white&labelColor=FF6C00"
     />
   </a>
 </p>

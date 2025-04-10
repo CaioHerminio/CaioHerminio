@@ -32,11 +32,19 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
   />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Blender" 
+    title="Blender"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+  />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
 
 <br/>

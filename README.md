@@ -25,6 +25,8 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
 <br/>
 <br/>
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 

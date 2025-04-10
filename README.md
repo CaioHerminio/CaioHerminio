@@ -131,3 +131,4 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHerminio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>

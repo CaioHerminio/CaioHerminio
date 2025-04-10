@@ -30,7 +30,11 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
-    
+
+
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>

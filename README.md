@@ -46,6 +46,50 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
+<img 
+    align="left" 
+    alt="Photoshop" 
+    title="Photoshop"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+  />
+
+<img 
+    align="left" 
+    alt="Illustrator" 
+    title="Illustrator"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" 
+  />
+
+<img 
+    align="left" 
+    alt="Premierepro" 
+    title="Premierepro"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" 
+  />  
+
+<img 
+    align="left" 
+    alt="Aftereffects" 
+    title="Aftereffects"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" 
+  />  
+
+<img 
+    align="left" 
+    alt="Maya" 
+    title="Maya"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" 
+  /> 
 
 <br/>
 <br/>

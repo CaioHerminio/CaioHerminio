@@ -2,7 +2,7 @@
 
 **`3D Artist and Full Stack Developer`**
 
-Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso técnico em informática na adolescência, me formei em Design Gráfico e iniciei minha carreira trabalhando com ilustração e 3D. Atualmente, estudo programação de forma autodidata, buscando uma oportunidade na indústria dos games. Sou apaixonado por tecnologia como forma de arte e pelo seu potencial de transformação do indivíduo e da sociedade.
+My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I took a technical course in IT during my teenage years, earned a degree in Graphic Design, and studied computer graphics with a focus on games for two and a half years. I then began my career working with illustration and 3D art. Currently, I'm self-studying programming while seeking an opportunity in the game industry. I'm passionate about technology as a form of art and its potential to transform both individuals and society.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/caio-hermínio-a670b62a8/" target="_blank">
@@ -24,7 +24,7 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -114,7 +114,7 @@ Me chamo Caio Hermínio, tenho 25 anos e sou natural de São Paulo. Fiz curso t�
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 

@@ -13,7 +13,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
     />
   </a>
 
-  <a href="[https://www.artstation.com/seuusuario](https://www.artstation.com/caiohsf/albums/1578957)" target="_blank">
+  <a href="https://www.artstation.com/caiohsf/albums/1578957" target="_blank">
     <img 
       alt="3D Portfolio" 
       title="Veja meu portfólio de arte 3D" 

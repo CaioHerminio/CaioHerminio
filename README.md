@@ -48,7 +48,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
   />
 
 <img 

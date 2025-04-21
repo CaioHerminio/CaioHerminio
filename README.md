@@ -142,3 +142,16 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHerminio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+## Front-End
+<p>
+  Here are some of my recent Front-End projects:
+  <ul>
+    <li><a href="https://github.com/CaioHerminio/PureCSS_Sphere">Pure CSS Sphere Tutorial: a tutorial on how to draw a sphere using only CSS. </a></li>
+    <li><a href="https://github.com/CaioHerminio/codingspells">Coding Spells of 2025 - A fictional article written by Thamila, the codemage, about the most popular programming languages ​​today. She talks a little about their origins, applications and difficulty levels, and concludes by talking about how learning programming logic is the most important thing, as it is the basis of all languages.</a></li>
+
+  
+  </ul>
+</p>

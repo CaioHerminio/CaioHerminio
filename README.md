@@ -153,12 +153,25 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
     <li><a href="https://github.com/CaioHerminio/TheSuits">🎴 The Suits</a> | Study on CSS and Flexbox about the 4 suits of the Tarot.</li>
     <li><a href="https://github.com/CaioHerminio/TarotMeanings">🌙 Tarot Meanings</a> | A CSS media query study project focused on responsivity, comparing The High Priestess and The Hermit tarot cards with text, pop culture references, and spiritual insights.</li>
     <li><a href="https://github.com/CaioHerminio/EmpressPage">🌿 The Empress - Tarot Card Page</a> | A minimalist landing page showing the illustration and meaning of The Empress tarot card, applying fonts and color palette.</li>
-    <li><a href="https://github.com/CaioHerminio/PureCSS_Sphere">🌕 Pure CSS Sphere Tutorial</a> | A tutorial on how to draw a sphere using only CSS.</li>
-    <li><a href="https://github.com/CaioHerminio/codingspells">✨ Coding Spells of 2025</a> | A fictional article written by Thamila, the sarcastic codemage, about the most popular programming languages ​​today. She talks a little about their origins, applications and difficulty levels, and concludes by talking about how learning programming logic is the most important thing, as it is the basis of all languages. The article is written using only HTML, and is meant to serve as both a study of HTML and a useful article on programming.</li>
-
-  
   </ul>
 </p>
+
+## 🎨 CSS
+<p>
+  CSS-only projects:
+  <ul>
+    <li><a href="https://github.com/CaioHerminio/PureCSS_Sphere">🌕 Pure CSS Sphere Tutorial</a> | A tutorial on how to draw a sphere using only CSS.</li>
+  </ul>
+</p>
+
+## 🎨 HTML
+<p>
+  HTML-only projects:
+  <ul>
+    <li><a href="https://github.com/CaioHerminio/codingspells">✨ Coding Spells of 2025</a> | A fictional article written by Thamila, the sarcastic codemage, about the most popular programming languages ​​today. She talks a little about their origins, applications and difficulty levels, and concludes by talking about how learning programming logic is the most important thing, as it is the basis of all languages. The article is written using only HTML, and is meant to serve as both a study of HTML and a useful article on programming.</li>
+  </ul>
+</p>
+
 
 ## 🥱 Boring Projects
 <p>

@@ -177,9 +177,9 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 <p>
   I hate generic programming projects, like calculators, to-do lists and Flappy Bird clones... I try to do more creative studies, with a bit of storytelling, but sometimes I do boring projects as a way of studying, especially when I'm starting out in a new technology.
   <ul>
+    <li><a href="https://github.com/CaioHerminio/tkCalculator">🧮 Calculator </a> | Boring calculator with Python and tkinter.</li>
     <li><a href="https://github.com/CaioHerminio/Notepad">📝 Notepad </a> | Text editor with Python and tkinter.</li>
     <li><a href="https://github.com/CaioHerminio/snake">🐍 Snake Game </a> | The classic game made with Pygame.</li>
-
 
   
   </ul>

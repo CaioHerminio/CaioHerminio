@@ -143,7 +143,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
   />
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## 🐍 Python
 <p>

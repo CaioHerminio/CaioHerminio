@@ -158,7 +158,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
   Here are some of my recent games made with Python: 
   <ul>
     <li><a href="https://github.com/CaioHerminio/TicTacToe">⭕❌ Tic Tac Toe</a> | Terminal-based tic-tac-toe game.</li>
-    <li><a href="https://github.com/CaioHerminio/TicTacToe">🦇 Carmilla's Dungeon</a> | You are the new prisoner of the vampire lady Carmilla, and you must guess how many years your servitude will last through this dark fantasy number guessing game.</li>
+    <li><a href="https://github.com/CaioHerminio/CarmillasDungeon">🦇 Carmilla's Dungeon</a> | You are the new prisoner of the vampire lady Carmilla, and you must guess how many years your servitude will last through this dark fantasy number guessing game.</li>
   </ul>
 </p>
 

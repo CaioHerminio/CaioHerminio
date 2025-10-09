@@ -150,6 +150,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
   Here are some of my recent Python projects: 
   <ul>
     <li><a href="https://github.com/CaioHerminio/GuardianSuccubus">💋 Guardian Succubus</a> | A sophisticated personality analysis tool that matches users with a mythical guardian based on astrological and personal attributes.</li>
+    <li><a href="https://github.com/CaioHerminio/QRCodeGenerator">🏁 QR Code Generator</a> | A QR Code generator made with the qrcode library.</li>
   </ul>
 </p>
 

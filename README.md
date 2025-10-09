@@ -145,6 +145,22 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+## 🐍 Python
+<p>
+  Here are some of my recent Python projects: 
+  <ul>
+    <li><a href="https://github.com/CaioHerminio/GuardianSuccubus">💋 Guardian Succubus</a> | A sophisticated personality analysis tool that matches users with a mythical guardian based on astrological and personal attributes.</li>
+  </ul>
+</p>
+
+## 🐍 Python/Pygame Games
+<p>
+  Here are some of my recent games made with Python: 
+  <ul>
+    <li><a href="https://github.com/CaioHerminio/TicTacToe">⭕❌Tic Tac Toe</a> | Terminal-based tic-tac-toe game.</li>
+  </ul>
+</p>
+
 ## 🎨 Front-End
 <p>
   Here are some of my recent Front-End projects: 

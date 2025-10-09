@@ -151,6 +151,9 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
   <ul>
     <li><a href="https://github.com/CaioHerminio/GuardianSuccubus">💋 Guardian Succubus</a> | A sophisticated personality analysis tool that matches users with a mythical guardian based on astrological and personal attributes.</li>
     <li><a href="https://github.com/CaioHerminio/QRCodeGenerator">🏁 QR Code Generator</a> | A QR Code generator made with the qrcode library.</li>
+    <li><a href="https://github.com/CaioHerminio/FileSorter">📁 File Sorter</a> | A Python script that automatically organizes files in a directory into folders based on their file extensions.
+
+.</li>
   </ul>
 </p>
 

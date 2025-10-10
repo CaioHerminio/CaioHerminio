@@ -153,6 +153,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
     <li><a href="https://github.com/CaioHerminio/QRCodeGenerator">🏁 QR Code Generator</a> | A QR Code generator made with the qrcode library.</li>
     <li><a href="https://github.com/CaioHerminio/FileSorter">📁 File Sorter</a> | A Python script that automatically organizes files in a directory into folders based on their file extensions.</li>
     <li><a href="https://github.com/CaioHerminio/TarotOfYourName">🃏 Tarot of Your Name</a> | Convert names into personalized Tarot card readings using Hebrew letter correspondences.</li>
+    <li><a href="https://github.com/CaioHerminio/PasswordChecker">🔐 Password Checker</a> | Checks if a user’s password appears in a list of the most common passwords.</li>
 
     
   </ul>

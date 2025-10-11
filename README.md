@@ -145,17 +145,23 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+## ⚙️ Automation
+<p>
+  Here are some of my recent Automation projects: 
+  <ul>
+    <li><a href="https://github.com/CaioHerminio/FileSorter">📁 File Sorter</a> | A Python script that automatically organizes files in a directory into folders based on their file extensions.</li>
+    <li><a href="https://github.com/CaioHerminio/BatchRenamer">🗂️🔁 Batch Renamer</a> | A Python automation script that renames files in bulk using os, loops, and string formatting to bring order to our digital chaos.</li>
+  </ul>
+</p>
+
 ## 🐍 Python
 <p>
   Here are some of my recent Python projects: 
   <ul>
     <li><a href="https://github.com/CaioHerminio/GuardianSuccubus">💋 Guardian Succubus</a> | A sophisticated personality analysis tool that matches users with a mythical guardian based on astrological and personal attributes.</li>
     <li><a href="https://github.com/CaioHerminio/QRCodeGenerator">🏁 QR Code Generator</a> | A QR Code generator made with the qrcode library.</li>
-    <li><a href="https://github.com/CaioHerminio/FileSorter">📁 File Sorter</a> | A Python script that automatically organizes files in a directory into folders based on their file extensions.</li>
     <li><a href="https://github.com/CaioHerminio/TarotOfYourName">🃏 Tarot of Your Name</a> | Convert names into personalized Tarot card readings using Hebrew letter correspondences.</li>
     <li><a href="https://github.com/CaioHerminio/PasswordChecker">🔐 Password Checker</a> | Checks if a user’s password appears in a list of the most common passwords.</li>
-
-    
   </ul>
 </p>
 

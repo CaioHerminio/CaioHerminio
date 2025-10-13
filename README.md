@@ -151,7 +151,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
   <ul>
     <li><a href="https://github.com/CaioHerminio/FileSentinel">🧠 File Sentinel</a> | A real-time Python file watcher that automatically sorts new files by extension using watchdog, os, and shutil for automated folder organization.</li>
     <li><a href="https://github.com/CaioHerminio/BatchRenamer">🔁 Batch Renamer</a> | A Python automation script that renames files in bulk using os, loops, and string formatting to bring order to our digital chaos.</li>
-    <li><a href="https://github.com/CaioHerminio/Tab Summoner">🔥 TabSummoner</a> | A Python automation script that opens multiple browser tabs based on selected work modes using the built-in webbrowser and time modules.</li>
+    <li><a href="https://github.com/CaioHerminio/Tab Summoner">🔥 Tab Summoner</a> | A Python automation script that opens multiple browser tabs based on selected work modes using the built-in webbrowser and time modules.</li>
     <li><a href="https://github.com/CaioHerminio/FileSorter">📁 File Sorter</a> | A Python file organizer that automatically sorts files into folders by extension using os, shutil, and recursive directory traversal.</li>
   </ul>
 </p>

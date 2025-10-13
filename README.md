@@ -149,7 +149,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 <p>
   Here are some of my recent Automation projects: 
   <ul>
-    <li><a href="https://github.com/CaioHerminio/FileSorter">📁 File Sorter</a> | A Python script that automatically organizes files in a directory into folders based on their file extensions.</li>
+    <li><a href="https://github.com/CaioHerminio/FileSorter">📁 File Sorter</a> | A Python file organizer that automatically sorts files into folders by extension using os, shutil, and recursive directory traversal.</li>
     <li><a href="https://github.com/CaioHerminio/BatchRenamer">🗂️🔁 Batch Renamer</a> | A Python automation script that renames files in bulk using os, loops, and string formatting to bring order to our digital chaos.</li>
   </ul>
 </p>

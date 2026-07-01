@@ -145,74 +145,48 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## ⚙️ Automation
-<p>
-  Here are some of my recent Automation projects: 
-  <ul>
-    <li><a href="https://github.com/CaioHerminio/FileSentinel">🧠 File Sentinel</a> | A real-time Python file watcher that automatically sorts new files by extension using watchdog, os, and shutil for automated folder organization.</li>
-    <li><a href="https://github.com/CaioHerminio/BatchRenamer">🔁 Batch Renamer</a> | A Python script that batch-renames files in a selected folder using the os module for directory handling and file renaming operations.</li>
-    <li><a href="https://github.com/CaioHerminio/TabSummoner">🔥 Tab Summoner</a> | A Python automation script that opens multiple browser tabs based on selected work modes using the built-in webbrowser and time modules.</li>
-    <li><a href="https://github.com/CaioHerminio/FileSorter">📁 File Sorter</a> | A Python file organizer that automatically sorts files into folders by extension using os, shutil, and recursive directory traversal.</li>
-  </ul>
-</p>
+## 🎮 Game Projects
 
-## 🐍 Python
-<p>
-  Here are some of my recent Python projects: 
-  <ul>
-    <li><a href="https://github.com/CaioHerminio/GuardianSuccubus">💋 Guardian Succubus</a> | A sophisticated personality analysis tool that matches users with a mythical guardian based on astrological and personal attributes.</li>
-    <li><a href="https://github.com/CaioHerminio/QRCodeGenerator">🏁 QR Code Generator</a> | A QR Code generator made with the qrcode library.</li>
-    <li><a href="https://github.com/CaioHerminio/TarotOfYourName">🃏 Tarot of Your Name</a> | Convert names into personalized Tarot card readings using Hebrew letter correspondences.</li>
-    <li><a href="https://github.com/CaioHerminio/PasswordChecker">🔐 Password Checker</a> | Checks if a user’s password appears in a list of the most common passwords.</li>
-  </ul>
-</p>
-
-## 🐍 Python/Pygame Games
-<p>
-  Here are some of my recent games made with Python: 
-  <ul>
-    <li><a href="https://github.com/CaioHerminio/HalloweenPong">🏓 Halloween Pong</a> | A pong clone with music and sound effects made with Pygame.</li>
-    <li><a href="https://github.com/CaioHerminio/TicTacToe">⭕❌ Tic Tac Toe</a> | Terminal-based tic-tac-toe game.</li>
-    <li><a href="https://github.com/CaioHerminio/CarmillasDungeon">🦇 Carmilla's Dungeon</a> | You are the new prisoner of the vampire lady Carmilla, and you must guess how many years your servitude will last through this dark fantasy number guessing game.</li>
-  </ul>
-</p>
-
-## 🎨 Front-End
-<p>
-  Here are some of my recent Front-End projects: 
-  <ul>
-    <li><a href="https://github.com/CaioHerminio/TheHierophant">🏛️ The Hierophant</a> | CSS study on Grid about The Hierophant tarot card.</li>
-    <li><a href="https://github.com/CaioHerminio/TheSuits">🎴 The Suits</a> | Study on CSS and Flexbox about the 4 suits of the Tarot.</li>
-    <li><a href="https://github.com/CaioHerminio/TarotMeanings">🌙 Tarot Meanings</a> | A CSS media query study project focused on responsivity, comparing The High Priestess and The Hermit tarot cards with text, pop culture references, and spiritual insights.</li>
-    <li><a href="https://github.com/CaioHerminio/EmpressPage">🌿 The Empress - Tarot Card Page</a> | A minimalist landing page showing the illustration and meaning of The Empress tarot card, applying fonts and color palette.</li>
-  </ul>
-</p>
-
-## 🎨 CSS
-<p>
-  CSS-only projects:
-  <ul>
-    <li><a href="https://github.com/CaioHerminio/PureCSS_Sphere">🌕 Pure CSS Sphere Tutorial</a> | A tutorial on how to draw a sphere using only CSS.</li>
-  </ul>
-</p>
-
-## 🎨 HTML
-<p>
-  HTML-only projects:
-  <ul>
-    <li><a href="https://github.com/CaioHerminio/codingspells">✨ Coding Spells of 2025</a> | A fictional article written by Thamila, the sarcastic codemage, about the most popular programming languages ​​today. She talks a little about their origins, applications and difficulty levels, and concludes by talking about how learning programming logic is the most important thing, as it is the basis of all languages. The article is written using only HTML, and is meant to serve as both a study of HTML and a useful article on programming.</li>
-  </ul>
-</p>
+- <li><a href="GITHUB_LINK">⚔️ Tic Tac Toe</a> | A command-line Tic-Tac-Toe game in Python where players compete against a computer opponent that makes random moves while the game checks for wins and ties.</li>
+- <li><a href="GITHUB_LINK">🗺️ US States Game</a> | An interactive Python geography quiz that challenges players to identify all 50 U.S. states on a map while tracking progress and generating a study list of missed states.</li>
+- <li><a href="GITHUB_LINK">🐍 Snake Game</a> | A classic Snake game built with Python's Turtle graphics featuring food collection, score tracking, collision detection, and high score persistence.</li>
+- <li><a href="GITHUB_LINK">🐍 Snake PyGame</a> | A classic Snake game built with Python and Pygame featuring grid-based movement, randomly spawning food, collision detection, and score progression through snake growth.</li>
+- <li><a href="GITHUB_LINK">✊ Rock Paper Scissors</a> | A simple command-line Rock, Paper, Scissors game in Python where players compete against a computer opponent with randomly generated moves and ASCII art visuals.</li>
+- <li><a href="GITHUB_LINK">🚗 Road Crossing Game</a> | A Frogger-inspired arcade game built with Python and Turtle graphics where players dodge moving cars, advance through increasingly difficult levels, and track their progress.</li>
+- <li><a href="GITHUB_LINK">🧙 Goth Summoner</a> | A Python fantasy battle game where players choose a summoner sigil and command monsters in a Rock-Paper-Scissors-style system against a randomly generated enemy across multiple rounds.</li>
+- <li><a href="GITHUB_LINK">🏓 Pong Game</a> | A classic two-player Pong game built with Python and Turtle graphics featuring paddle controls, ball physics, collision detection, and score tracking.</li>
+- <li><a href="GITHUB_LINK">🔢 Number Guessing Game</a> | A Python number guessing game where players try to find a randomly generated number within a chosen difficulty level and limited number of attempts.</li>
 
 
-## 🥱 Boring Projects
-<p>
-  I hate generic programming projects, like calculators, to-do lists and Flappy Bird clones... I try to do more creative studies, with a bit of storytelling, but sometimes I do boring projects as a way of studying, especially when I'm starting out in a new technology.
-  <ul>
-    <li><a href="https://github.com/CaioHerminio/tkCalculator">🧮 Calculator </a> | Boring calculator with Python and tkinter.</li>
-    <li><a href="https://github.com/CaioHerminio/Notepad">📝 Notepad </a> | Text editor with Python and tkinter.</li>
-    <li><a href="https://github.com/CaioHerminio/snake">🐍 Snake Game </a> | The classic game made with Pygame.</li>
+## 📖 Narrative Games
 
-  
-  </ul>
-</p>
+- <li><a href="GITHUB_LINK">🧛 Welcome to the Family</a> | A text-based Python adventure game where the player's choices determine their vampire rank and unique vampire class.</li>
+- <li><a href="GITHUB_LINK">📜 Succonomicon</a> | A Python object-oriented programming project that models a fictional hierarchy of spirits using inheritance, encapsulation, and polymorphism.</li>
+- <li><a href="GITHUB_LINK">👿 Guardian Succubus</a> | A Python personality generator that creates a fictional guardian character with randomized traits, appearance, personality, and messages.</li>
+- <li><a href="GITHUB_LINK">🤖 Mummy AI</a> | </li>
+- <li><a href="GITHUB_LINK">🧙 Magecraft</a> | A Python program that creates a magical character alias by combining user choices with a personalized mage introduction and mana level.</li>
+- <li><a href="GITHUB_LINK">🦸 Kharavore List</a> | A Python hero ranking system that organizes a fictional roster by power level using sorting and filtering logic.</li>
+- <li><a href="GITHUB_LINK">🦖 Kaiju Generator</a> | A Python kaiju generator that randomly creates unique monsters with names, appearances, abilities, ranks, colors, and prices.</li>
+- <li><a href="GITHUB_LINK">🔯 Tarot of Your Name</a> | A Python program that converts names into symbolic equivalents and reveals associated Major Arcana tarot cards.</li>
+- <li><a href="GITHUB_LINK">🃏 Tarot Machine</a> | A command-line Tarot reading application that generates customizable card spreads with symbolic interpretations.</li>
+- <li><a href="GITHUB_LINK">☕ Coffee Machine</a> | A Python coffee machine simulator that manages drink orders, ingredients, payments, change, and profit tracking.</li>
+- <li><a href="GITHUB_LINK">🐙 Eldritch Runes</a> | A Python text-based eldritch spell puzzle where players combine runes to escape a cosmic horror curse.</li>
+
+
+## 🛠️ Utility Codes
+
+- <li><a href="GITHUB_LINK">🍅 Pomodoro</a> | A Python Tkinter timer that alternates between work and break sessions while tracking productivity cycles.</li>
+- <li><a href="GITHUB_LINK">⏳ Hourglass of Dreams</a> | A Python skill mastery calculator that estimates learning time based on practice hours and schedule.</li>
+- <li><a href="GITHUB_LINK">💰 Tip Calculator</a> | A Python bill splitter that calculates tips and divides expenses between users.</li>
+- <li><a href="GITHUB_LINK">🌐 Tab Summoner</a> | A Python productivity tool that automatically opens browser tabs based on the selected activity mode.</li>
+- <li><a href="GITHUB_LINK">🧮 tkCalculator</a> | A simple calculator built with Python and Tkinter using a graphical interface.</li>
+- <li><a href="GITHUB_LINK">📱 QR Code Generator</a> | A Python tool that converts text into customizable QR code images.</li>
+- <li><a href="GITHUB_LINK">🔐 Password Manager</a> | A Python Tkinter application that generates secure passwords and stores login credentials.</li>
+- <li><a href="GITHUB_LINK">🔑 Password Generator</a> | A Python tool that creates randomized secure passwords using letters, numbers, and symbols.</li>
+- <li><a href="GITHUB_LINK">🛡️ Password Checker</a> | A Python security checker that compares passwords against a database of common passwords.</li>
+- <li><a href="GITHUB_LINK">🔤 NATO Alphabet</a> | A Python converter that transforms words into NATO phonetic alphabet codes.</li>
+- <li><a href="GITHUB_LINK">📏 Miles to Km Converter</a> | A Python Tkinter app that converts miles into kilometers.</li>
+- <li><a href="GITHUB_LINK">📂 File Sorter</a> | A Python automation tool that organizes files into folders based on their extensions.</li>
+- <li><a href="GITHUB_LINK">👁️ File Sentinel</a> | A Python automation tool that monitors folders and organizes newly created files automatically.</li>
+- <li><a href="GITHUB_LINK">🖤 Evil Muse</a> | A Python character creation assistant that helps writers design characters with trauma, strengths, weaknesses, and story arcs.</li>
+- <li><a href="GITHUB_LINK">📝 Batch Renamer</a> | A Python tool that renames multiple files with a custom numbered naming format.</li>

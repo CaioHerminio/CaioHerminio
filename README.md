@@ -156,7 +156,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 <li><a href="GITHUB_LINK">🧙 Goth Summoner</a> | A Python fantasy battle game where players choose a summoner sigil and command monsters in a Rock-Paper-Scissors-style system against a randomly generated enemy across multiple rounds.</li>
 <li><a href="GITHUB_LINK">🏓 Pong Game</a> | A classic two-player Pong game built with Python and Turtle graphics featuring paddle controls, ball physics, collision detection, and score tracking.</li>
 <li><a href="GITHUB_LINK">🔢 Number Guessing Game</a> | A Python number guessing game where players try to find a randomly generated number within a chosen difficulty level and limited number of attempts.</li>
-</ul>ul>
+</ul>
 
 
 ## 📖 Narrative Games

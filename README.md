@@ -174,19 +174,20 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 
 
 ## 🛠️ Utility Codes
-
-- <li><a href="GITHUB_LINK">🍅 Pomodoro</a> | A Python Tkinter timer that alternates between work and break sessions while tracking productivity cycles.</li>
-- <li><a href="GITHUB_LINK">⏳ Hourglass of Dreams</a> | A Python skill mastery calculator that estimates learning time based on practice hours and schedule.</li>
-- <li><a href="GITHUB_LINK">💰 Tip Calculator</a> | A Python bill splitter that calculates tips and divides expenses between users.</li>
-- <li><a href="GITHUB_LINK">🌐 Tab Summoner</a> | A Python productivity tool that automatically opens browser tabs based on the selected activity mode.</li>
-- <li><a href="GITHUB_LINK">🧮 tkCalculator</a> | A simple calculator built with Python and Tkinter using a graphical interface.</li>
-- <li><a href="GITHUB_LINK">📱 QR Code Generator</a> | A Python tool that converts text into customizable QR code images.</li>
-- <li><a href="GITHUB_LINK">🔐 Password Manager</a> | A Python Tkinter application that generates secure passwords and stores login credentials.</li>
-- <li><a href="GITHUB_LINK">🔑 Password Generator</a> | A Python tool that creates randomized secure passwords using letters, numbers, and symbols.</li>
-- <li><a href="GITHUB_LINK">🛡️ Password Checker</a> | A Python security checker that compares passwords against a database of common passwords.</li>
-- <li><a href="GITHUB_LINK">🔤 NATO Alphabet</a> | A Python converter that transforms words into NATO phonetic alphabet codes.</li>
-- <li><a href="GITHUB_LINK">📏 Miles to Km Converter</a> | A Python Tkinter app that converts miles into kilometers.</li>
-- <li><a href="GITHUB_LINK">📂 File Sorter</a> | A Python automation tool that organizes files into folders based on their extensions.</li>
-- <li><a href="GITHUB_LINK">👁️ File Sentinel</a> | A Python automation tool that monitors folders and organizes newly created files automatically.</li>
-- <li><a href="GITHUB_LINK">🖤 Evil Muse</a> | A Python character creation assistant that helps writers design characters with trauma, strengths, weaknesses, and story arcs.</li>
-- <li><a href="GITHUB_LINK">📝 Batch Renamer</a> | A Python tool that renames multiple files with a custom numbered naming format.</li>
+<ul>
+<li><a href="GITHUB_LINK">🍅 Pomodoro</a> | A Python Tkinter timer that alternates between work and break sessions while tracking productivity cycles.</li>
+<li><a href="GITHUB_LINK">⏳ Hourglass of Dreams</a> | A Python skill mastery calculator that estimates learning time based on practice hours and schedule.</li>
+<li><a href="GITHUB_LINK">💰 Tip Calculator</a> | A Python bill splitter that calculates tips and divides expenses between users.</li>
+<li><a href="GITHUB_LINK">🌐 Tab Summoner</a> | A Python productivity tool that automatically opens browser tabs based on the selected activity mode.</li>
+<li><a href="GITHUB_LINK">🧮 tkCalculator</a> | A simple calculator built with Python and Tkinter using a graphical interface.</li>
+<li><a href="GITHUB_LINK">📱 QR Code Generator</a> | A Python tool that converts text into customizable QR code images.</li>
+<li><a href="GITHUB_LINK">🔐 Password Manager</a> | A Python Tkinter application that generates secure passwords and stores login credentials.</li>
+<li><a href="GITHUB_LINK">🔑 Password Generator</a> | A Python tool that creates randomized secure passwords using letters, numbers, and symbols.</li>
+<li><a href="GITHUB_LINK">🛡️ Password Checker</a> | A Python security checker that compares passwords against a database of common passwords.</li>
+<li><a href="GITHUB_LINK">🔤 NATO Alphabet</a> | A Python converter that transforms words into NATO phonetic alphabet codes.</li>
+<li><a href="GITHUB_LINK">📏 Miles to Km Converter</a> | A Python Tkinter app that converts miles into kilometers.</li>
+<li><a href="GITHUB_LINK">📂 File Sorter</a> | A Python automation tool that organizes files into folders based on their extensions.</li>
+<li><a href="GITHUB_LINK">👁️ File Sentinel</a> | A Python automation tool that monitors folders and organizes newly created files automatically.</li>
+<li><a href="GITHUB_LINK">🖤 Evil Muse</a> | A Python character creation assistant that helps writers design characters with trauma, strengths, weaknesses, and story arcs.</li>
+<li><a href="GITHUB_LINK">📝 Batch Renamer</a> | A Python tool that renames multiple files with a custom numbered naming format.</li>
+</ul>

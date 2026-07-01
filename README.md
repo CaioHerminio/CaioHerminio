@@ -147,7 +147,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 <li><a href="GITHUB_LINK">🧛 Welcome to the Family</a> | A text-based Python adventure game where the player's choices determine their vampire rank and unique vampire class.</li>
 <li><a href="GITHUB_LINK">📜 Succonomicon</a> | An object-oriented programming project that models a fictional hierarchy of spirits using inheritance, encapsulation, and polymorphism.</li>
 <li><a href="GITHUB_LINK">👿 Guardian Succubus</a> | Personality generator that creates a fictional guardian character with randomized traits, appearance, personality, and messages.</li>
-<li><a href="GITHUB_LINK">🤖 Mummy AI</a> | </li>
+<li><a href="GITHUB_LINK">🤖 Mummy AI</a> | A Python-based AI report system that organizes a Martian warrior’s inventory, victories, locations, enemies, battles, and missions using fundamental data structures like lists, sets, tuples, dictionaries, stacks, and queues.</li>
 <li><a href="GITHUB_LINK">🧙 Magecraft</a> | Python program that creates a magical character alias by combining user choices with a personalized mage introduction and mana level.</li>
 <li><a href="GITHUB_LINK">🦸 Kharavore List</a> | Python hero ranking system that organizes a fictional roster by power level using sorting and filtering logic.</li>
 <li><a href="GITHUB_LINK">🦖 Kaiju Generator</a> | Kaiju generator that randomly creates unique monsters with names, appearances, abilities, ranks, colors, and prices.</li>

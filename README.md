@@ -145,33 +145,33 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 ## 📖 Narrative Games
 <ul>
 <li><a href="GITHUB_LINK">🧛 Welcome to the Family</a> | A text-based Python adventure game where the player's choices determine their vampire rank and unique vampire class.</li>
-<li><a href="GITHUB_LINK">📜 Succonomicon</a> | A Python object-oriented programming project that models a fictional hierarchy of spirits using inheritance, encapsulation, and polymorphism.</li>
-<li><a href="GITHUB_LINK">👿 Guardian Succubus</a> | A Python personality generator that creates a fictional guardian character with randomized traits, appearance, personality, and messages.</li>
+<li><a href="GITHUB_LINK">📜 Succonomicon</a> | An object-oriented programming project that models a fictional hierarchy of spirits using inheritance, encapsulation, and polymorphism.</li>
+<li><a href="GITHUB_LINK">👿 Guardian Succubus</a> | Personality generator that creates a fictional guardian character with randomized traits, appearance, personality, and messages.</li>
 <li><a href="GITHUB_LINK">🤖 Mummy AI</a> | </li>
-<li><a href="GITHUB_LINK">🧙 Magecraft</a> | A Python program that creates a magical character alias by combining user choices with a personalized mage introduction and mana level.</li>
-<li><a href="GITHUB_LINK">🦸 Kharavore List</a> | A Python hero ranking system that organizes a fictional roster by power level using sorting and filtering logic.</li>
-<li><a href="GITHUB_LINK">🦖 Kaiju Generator</a> | A Python kaiju generator that randomly creates unique monsters with names, appearances, abilities, ranks, colors, and prices.</li>
-<li><a href="GITHUB_LINK">🔯 Tarot of Your Name</a> | A Python program that converts names into symbolic equivalents and reveals associated Major Arcana tarot cards.</li>
+<li><a href="GITHUB_LINK">🧙 Magecraft</a> | Python program that creates a magical character alias by combining user choices with a personalized mage introduction and mana level.</li>
+<li><a href="GITHUB_LINK">🦸 Kharavore List</a> | Python hero ranking system that organizes a fictional roster by power level using sorting and filtering logic.</li>
+<li><a href="GITHUB_LINK">🦖 Kaiju Generator</a> | Kaiju generator that randomly creates unique monsters with names, appearances, abilities, ranks, colors, and prices.</li>
+<li><a href="GITHUB_LINK">🔯 Tarot of Your Name</a> | Program that converts names into symbolic equivalents and reveals associated Major Arcana tarot cards.</li>
 <li><a href="GITHUB_LINK">🃏 Tarot Machine</a> | A command-line Tarot reading application that generates customizable card spreads with symbolic interpretations.</li>
-<li><a href="GITHUB_LINK">☕ Coffee Machine</a> | A Python coffee machine simulator that manages drink orders, ingredients, payments, change, and profit tracking.</li>
+<li><a href="GITHUB_LINK">☕ Coffee Machine</a> | Coffee machine simulator that manages drink orders, ingredients, payments, change, and profit tracking.</li>
 <li><a href="GITHUB_LINK">🐙 Eldritch Runes</a> | A Python text-based eldritch spell puzzle where players combine runes to escape a cosmic horror curse.</li>
 </ul>
 
 ## 🛠️ Utility Codes
 <ul>
 <li><a href="GITHUB_LINK">🍅 Pomodoro</a> | A Python Tkinter timer that alternates between work and break sessions while tracking productivity cycles.</li>
-<li><a href="GITHUB_LINK">⏳ Hourglass of Dreams</a> | A Python skill mastery calculator that estimates learning time based on practice hours and schedule.</li>
-<li><a href="GITHUB_LINK">💰 Tip Calculator</a> | A Python bill splitter that calculates tips and divides expenses between users.</li>
-<li><a href="GITHUB_LINK">🌐 Tab Summoner</a> | A Python productivity tool that automatically opens browser tabs based on the selected activity mode.</li>
-<li><a href="GITHUB_LINK">🧮 tkCalculator</a> | A simple calculator built with Python and Tkinter using a graphical interface.</li>
-<li><a href="GITHUB_LINK">📱 QR Code Generator</a> | A Python tool that converts text into customizable QR code images.</li>
-<li><a href="GITHUB_LINK">🔐 Password Manager</a> | A Python Tkinter application that generates secure passwords and stores login credentials.</li>
-<li><a href="GITHUB_LINK">🔑 Password Generator</a> | A Python tool that creates randomized secure passwords using letters, numbers, and symbols.</li>
-<li><a href="GITHUB_LINK">🛡️ Password Checker</a> | A Python security checker that compares passwords against a database of common passwords.</li>
+<li><a href="GITHUB_LINK">⏳ Hourglass of Dreams</a> | Skill mastery calculator that estimates learning time based on practice hours and schedule.</li>
+<li><a href="GITHUB_LINK">💰 Tip Calculator</a> | A bill splitter that calculates tips and divides expenses between users.</li>
+<li><a href="GITHUB_LINK">🌐 Tab Summoner</a> | Python productivity tool that automatically opens browser tabs based on the selected activity mode.</li>
+<li><a href="GITHUB_LINK">🧮 tkCalculator</a> | Simple calculator built with Python and Tkinter using a graphical interface.</li>
+<li><a href="GITHUB_LINK">📱 QR Code Generator</a> | A tool that converts text into customizable QR code images.</li>
+<li><a href="GITHUB_LINK">🔐 Password Manager</a> | Tkinter application that generates secure passwords and stores login credentials.</li>
+<li><a href="GITHUB_LINK">🔑 Password Generator</a> | Tool that creates randomized secure passwords using letters, numbers, and symbols.</li>
+<li><a href="GITHUB_LINK">🛡️ Password Checker</a> | Security checker that compares passwords against a database of common passwords.</li>
 <li><a href="GITHUB_LINK">🔤 NATO Alphabet</a> | A Python converter that transforms words into NATO phonetic alphabet codes.</li>
-<li><a href="GITHUB_LINK">📏 Miles to Km Converter</a> | A Python Tkinter app that converts miles into kilometers.</li>
-<li><a href="GITHUB_LINK">📂 File Sorter</a> | A Python automation tool that organizes files into folders based on their extensions.</li>
-<li><a href="GITHUB_LINK">👁️ File Sentinel</a> | A Python automation tool that monitors folders and organizes newly created files automatically.</li>
-<li><a href="GITHUB_LINK">🖤 Evil Muse</a> | A Python character creation assistant that helps writers design characters with trauma, strengths, weaknesses, and story arcs.</li>
-<li><a href="GITHUB_LINK">📝 Batch Renamer</a> | A Python tool that renames multiple files with a custom numbered naming format.</li>
+<li><a href="GITHUB_LINK">📏 Miles to Km Converter</a> | Tkinter app that converts miles into kilometers.</li>
+<li><a href="GITHUB_LINK">📂 File Sorter</a> | Automation tool that organizes files into folders based on their extensions.</li>
+<li><a href="GITHUB_LINK">👁️ File Sentinel</a> | Automation tool that monitors folders and organizes newly created files automatically.</li>
+<li><a href="GITHUB_LINK">🖤 Evil Muse</a> | Character creation assistant that helps writers design characters with trauma, strengths, weaknesses, and story arcs.</li>
+<li><a href="GITHUB_LINK">📝 Batch Renamer</a> | Tool that renames multiple files with a custom numbered naming format.</li>
 </ul>

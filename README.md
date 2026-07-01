@@ -146,32 +146,33 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## 🎮 Game Projects
-
-- <li><a href="GITHUB_LINK">⚔️ Tic Tac Toe</a> | A command-line Tic-Tac-Toe game in Python where players compete against a computer opponent that makes random moves while the game checks for wins and ties.</li>
-- <li><a href="GITHUB_LINK">🗺️ US States Game</a> | An interactive Python geography quiz that challenges players to identify all 50 U.S. states on a map while tracking progress and generating a study list of missed states.</li>
-- <li><a href="GITHUB_LINK">🐍 Snake Game</a> | A classic Snake game built with Python's Turtle graphics featuring food collection, score tracking, collision detection, and high score persistence.</li>
-- <li><a href="GITHUB_LINK">🐍 Snake PyGame</a> | A classic Snake game built with Python and Pygame featuring grid-based movement, randomly spawning food, collision detection, and score progression through snake growth.</li>
-- <li><a href="GITHUB_LINK">✊ Rock Paper Scissors</a> | A simple command-line Rock, Paper, Scissors game in Python where players compete against a computer opponent with randomly generated moves and ASCII art visuals.</li>
-- <li><a href="GITHUB_LINK">🚗 Road Crossing Game</a> | A Frogger-inspired arcade game built with Python and Turtle graphics where players dodge moving cars, advance through increasingly difficult levels, and track their progress.</li>
-- <li><a href="GITHUB_LINK">🧙 Goth Summoner</a> | A Python fantasy battle game where players choose a summoner sigil and command monsters in a Rock-Paper-Scissors-style system against a randomly generated enemy across multiple rounds.</li>
-- <li><a href="GITHUB_LINK">🏓 Pong Game</a> | A classic two-player Pong game built with Python and Turtle graphics featuring paddle controls, ball physics, collision detection, and score tracking.</li>
-- <li><a href="GITHUB_LINK">🔢 Number Guessing Game</a> | A Python number guessing game where players try to find a randomly generated number within a chosen difficulty level and limited number of attempts.</li>
+<ul>
+<li><a href="GITHUB_LINK">⚔️ Tic Tac Toe</a> | A command-line Tic-Tac-Toe game in Python where players compete against a computer opponent that makes random moves while the game checks for wins and ties.</li>
+<li><a href="GITHUB_LINK">🗺️ US States Game</a> | An interactive Python geography quiz that challenges players to identify all 50 U.S. states on a map while tracking progress and generating a study list of missed states.</li>
+<li><a href="GITHUB_LINK">🐍 Snake Game</a> | A classic Snake game built with Python's Turtle graphics featuring food collection, score tracking, collision detection, and high score persistence.</li>
+<li><a href="GITHUB_LINK">🐍 Snake PyGame</a> | A classic Snake game built with Python and Pygame featuring grid-based movement, randomly spawning food, collision detection, and score progression through snake growth.</li>
+<li><a href="GITHUB_LINK">✊ Rock Paper Scissors</a> | A simple command-line Rock, Paper, Scissors game in Python where players compete against a computer opponent with randomly generated moves and ASCII art visuals.</li>
+<li><a href="GITHUB_LINK">🚗 Road Crossing Game</a> | A Frogger-inspired arcade game built with Python and Turtle graphics where players dodge moving cars, advance through increasingly difficult levels, and track their progress.</li>
+<li><a href="GITHUB_LINK">🧙 Goth Summoner</a> | A Python fantasy battle game where players choose a summoner sigil and command monsters in a Rock-Paper-Scissors-style system against a randomly generated enemy across multiple rounds.</li>
+<li><a href="GITHUB_LINK">🏓 Pong Game</a> | A classic two-player Pong game built with Python and Turtle graphics featuring paddle controls, ball physics, collision detection, and score tracking.</li>
+<li><a href="GITHUB_LINK">🔢 Number Guessing Game</a> | A Python number guessing game where players try to find a randomly generated number within a chosen difficulty level and limited number of attempts.</li>
+</ul>ul>
 
 
 ## 📖 Narrative Games
-
-- <li><a href="GITHUB_LINK">🧛 Welcome to the Family</a> | A text-based Python adventure game where the player's choices determine their vampire rank and unique vampire class.</li>
-- <li><a href="GITHUB_LINK">📜 Succonomicon</a> | A Python object-oriented programming project that models a fictional hierarchy of spirits using inheritance, encapsulation, and polymorphism.</li>
-- <li><a href="GITHUB_LINK">👿 Guardian Succubus</a> | A Python personality generator that creates a fictional guardian character with randomized traits, appearance, personality, and messages.</li>
-- <li><a href="GITHUB_LINK">🤖 Mummy AI</a> | </li>
-- <li><a href="GITHUB_LINK">🧙 Magecraft</a> | A Python program that creates a magical character alias by combining user choices with a personalized mage introduction and mana level.</li>
-- <li><a href="GITHUB_LINK">🦸 Kharavore List</a> | A Python hero ranking system that organizes a fictional roster by power level using sorting and filtering logic.</li>
-- <li><a href="GITHUB_LINK">🦖 Kaiju Generator</a> | A Python kaiju generator that randomly creates unique monsters with names, appearances, abilities, ranks, colors, and prices.</li>
-- <li><a href="GITHUB_LINK">🔯 Tarot of Your Name</a> | A Python program that converts names into symbolic equivalents and reveals associated Major Arcana tarot cards.</li>
-- <li><a href="GITHUB_LINK">🃏 Tarot Machine</a> | A command-line Tarot reading application that generates customizable card spreads with symbolic interpretations.</li>
-- <li><a href="GITHUB_LINK">☕ Coffee Machine</a> | A Python coffee machine simulator that manages drink orders, ingredients, payments, change, and profit tracking.</li>
-- <li><a href="GITHUB_LINK">🐙 Eldritch Runes</a> | A Python text-based eldritch spell puzzle where players combine runes to escape a cosmic horror curse.</li>
-
+<ul>
+<li><a href="GITHUB_LINK">🧛 Welcome to the Family</a> | A text-based Python adventure game where the player's choices determine their vampire rank and unique vampire class.</li>
+<li><a href="GITHUB_LINK">📜 Succonomicon</a> | A Python object-oriented programming project that models a fictional hierarchy of spirits using inheritance, encapsulation, and polymorphism.</li>
+<li><a href="GITHUB_LINK">👿 Guardian Succubus</a> | A Python personality generator that creates a fictional guardian character with randomized traits, appearance, personality, and messages.</li>
+<li><a href="GITHUB_LINK">🤖 Mummy AI</a> | </li>
+<li><a href="GITHUB_LINK">🧙 Magecraft</a> | A Python program that creates a magical character alias by combining user choices with a personalized mage introduction and mana level.</li>
+<li><a href="GITHUB_LINK">🦸 Kharavore List</a> | A Python hero ranking system that organizes a fictional roster by power level using sorting and filtering logic.</li>
+<li><a href="GITHUB_LINK">🦖 Kaiju Generator</a> | A Python kaiju generator that randomly creates unique monsters with names, appearances, abilities, ranks, colors, and prices.</li>
+<li><a href="GITHUB_LINK">🔯 Tarot of Your Name</a> | A Python program that converts names into symbolic equivalents and reveals associated Major Arcana tarot cards.</li>
+<li><a href="GITHUB_LINK">🃏 Tarot Machine</a> | A command-line Tarot reading application that generates customizable card spreads with symbolic interpretations.</li>
+<li><a href="GITHUB_LINK">☕ Coffee Machine</a> | A Python coffee machine simulator that manages drink orders, ingredients, payments, change, and profit tracking.</li>
+<li><a href="GITHUB_LINK">🐙 Eldritch Runes</a> | A Python text-based eldritch spell puzzle where players combine runes to escape a cosmic horror curse.</li>
+</ul>
 
 ## 🛠️ Utility Codes
 <ul>

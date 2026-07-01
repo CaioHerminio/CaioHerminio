@@ -128,8 +128,24 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 
 <br/><br/>
 
+## 📺 Front-End
+<ul>
+<li><a href="GITHUB_LINK">🔮 Servitor Planner</a> | A mystical-themed HTML and CSS form application that lets users design and customize a fictional servitor by defining its traits, purpose, elemental associations, planetary energies, and symbolic details.</li>
+<li><a href="GITHUB_LINK">📜 Franz Bardon Tribute Page</a> | A biographical HTML and CSS webpage dedicated to Franz Bardon, presenting his life, Hermetic works, quotes, and books with a mystical themed visual design.</li>
+<li><a href="GITHUB_LINK">⏰ Digital Watch</a> | A digital clock web project built with HTML, CSS, and JavaScript that displays real-time hours, minutes, and seconds with animated styling, a quote, and background music.</li>
+<li><a href="GITHUB_LINK">🎬 Mineflix</a> | A Netflix-inspired login page built with HTML that recreates a streaming platform sign-in interface with email/password fields, support options, social login, and account prompts.</li>
+<li><a href="GITHUB_LINK">🃏 The Hierophant</a> | A tarot-inspired HTML and CSS webpage that explores The Hierophant card through symbolic descriptions, astrology, and mystical correspondences using a structured grid layout and elegant design.</li>
+<li><a href="GITHUB_LINK">♠️ The Suits</a> | A tarot-themed HTML and CSS webpage that presents the four Ace cards and their elemental suits through a responsive card layout with styled descriptions and symbolism.</li>
+<li><a href="GITHUB_LINK">🌙 The High Priestess vs The Hermit</a> | A tarot comparison webpage built with HTML and CSS that explores the differences between The High Priestess and The Hermit through symbolism, meanings, character associations, and mystical interpretations.</li>
+<li><a href="GITHUB_LINK">🌿 The Empress</a> | A tarot-inspired HTML and CSS webpage that presents “The Empress” card with artwork, themed typography, colors, and a poetic description of its symbolism.</li>
+<li><a href="GITHUB_LINK">🌐 Pure CSS Sphere</a> | A simple HTML and CSS project that creates a cel-shaded 3D sphere effect using gradients, shadows, and lighting highlights without external assets.</li>
+<li><a href="GITHUB_LINK">✨ Coding Spells</a> | A fantasy-themed HTML article that introduces programming languages as magical tools, explaining their uses, difficulty, and personalities while teaching beginners the importance of coding logic.</li>
+</ul>
+
+
 ## 🎮 Game Projects
 <ul>
+<li><a href="GITHUB_LINK">🏓 Halloween Pong</a> | A Python Pygame project that recreates a dark-themed Pong game with two-player controls, animated ball collisions, scoring, sound effects, music, and custom victory screens.</li>
 <li><a href="GITHUB_LINK">⚔️ Tic Tac Toe</a> | A command-line Tic-Tac-Toe game in Python where players compete against a computer opponent that makes random moves while the game checks for wins and ties.</li>
 <li><a href="GITHUB_LINK">🗺️ US States Game</a> | An interactive Python geography quiz that challenges players to identify all 50 U.S. states on a map while tracking progress and generating a study list of missed states.</li>
 <li><a href="GITHUB_LINK">🐍 Snake Game</a> | A classic Snake game built with Python's Turtle graphics featuring food collection, score tracking, collision detection, and high score persistence.</li>

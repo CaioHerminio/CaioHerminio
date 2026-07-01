@@ -147,7 +147,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 
 ## 🎮 Game Projects
 <ul>
-<li><a href="GITHUB_LINK">🏓 Halloween Pong</a> | A Python Pygame project that recreates a dark-themed Pong game with two-player controls, animated ball collisions, scoring, sound effects, music, and custom victory screens.</li>
+<li><a href="https://github.com/CaioHerminio/HalloweenPong">🏓 Halloween Pong</a> | A Python Pygame project that recreates a dark-themed Pong game with two-player controls, animated ball collisions, scoring, sound effects, music, and custom victory screens.</li>
 <li><a href="GITHUB_LINK">⚔️ Tic Tac Toe</a> | A command-line Tic-Tac-Toe game in Python where players compete against a computer opponent that makes random moves while the game checks for wins and ties.</li>
 <li><a href="GITHUB_LINK">🗺️ US States Game</a> | An interactive Python geography quiz that challenges players to identify all 50 U.S. states on a map while tracking progress and generating a study list of missed states.</li>
 <li><a href="GITHUB_LINK">🐍 Snake Game</a> | A classic Snake game built with Python's Turtle graphics featuring food collection, score tracking, collision detection, and high score persistence.</li>

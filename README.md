@@ -131,6 +131,7 @@ My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I 
 ## 📺 Front-End
 <ul>
 <li><a href="GITHUB_LINK">🔮 Servitor Planner</a> | A mystical-themed HTML and CSS form application that lets users design and customize a fictional servitor by defining its traits, purpose, elemental associations, planetary energies, and symbolic details.</li>
+<li><a href="https://github.com/CaioHerminio/Calculator">🧮 Simple Calculator</a> | A basic web calculator built with HTML, CSS, and JavaScript that performs arithmetic operations through an interactive button interface with a dynamic display.</li>
 <li><a href="GITHUB_LINK">📜 Franz Bardon Tribute Page</a> | A biographical HTML and CSS webpage dedicated to Franz Bardon, presenting his life, Hermetic works, quotes, and books with a mystical themed visual design.</li>
 <li><a href="GITHUB_LINK">⏰ Digital Watch</a> | A digital clock web project built with HTML, CSS, and JavaScript that displays real-time hours, minutes, and seconds with animated styling, a quote, and background music.</li>
 <li><a href="GITHUB_LINK">🎬 Mineflix</a> | A Netflix-inspired login page built with HTML that recreates a streaming platform sign-in interface with email/password fields, support options, social login, and account prompts.</li>

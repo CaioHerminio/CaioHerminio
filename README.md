@@ -5,7 +5,7 @@
 My name is Caio Hermínio, I'm 25 years old, and I'm from São Paulo, Brazil. I took a technical course in IT during my teenage years, earned a degree in Graphic Design, and studied computer graphics with a focus on games for two and a half years. I then began my career working with illustration and 3D art. Currently, I'm self-studying programming while seeking an opportunity in the game industry. I'm passionate about technology as a form of art and its potential to transform both individuals and society.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/caio-herm%C3%ADnio//" target="_blank">
+  <a href="https://www.linkedin.com/caio-herm%C3%ADnio/" target="_blank">
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 

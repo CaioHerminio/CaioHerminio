@@ -144,6 +144,11 @@ My name is Caio Hermínio, I'm 27 years old, and I'm from São Paulo, Brazil. I 
 <li><a href="https://github.com/CaioHerminio/codingspells">✨ Coding Spells</a> | A fantasy-themed HTML article that introduces programming languages as magical tools, explaining their uses, difficulty, and personalities while teaching beginners the importance of coding logic.</li>
 </ul>
 
+## 🎮 C++
+<ul>
+<li><a href="https://github.com/CaioHerminio/Personal_Finance_Calculator">💰 Personal Finance Calculator</a> | This project allows users to distribute their monthly salary across different financial categories and calculate their total budget allocation and remaining balance.</li>
+</ul>
+
 
 ## 🎮 Game Projects
 <ul>

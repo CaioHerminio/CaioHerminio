@@ -147,6 +147,7 @@ My name is Caio Hermínio, I'm 27 years old, and I'm from São Paulo, Brazil. I 
 ## 🎮 C++
 <ul>
 <li><a href="https://github.com/CaioHerminio/Personal_Finance_Calculator">💰 Personal Finance Calculator</a> | This project allows users to distribute their monthly salary across different financial categories and calculate their total budget allocation and remaining balance.</li>
+<li><a href="https://github.com/CaioHerminio/Console_Calculator">🧮 Console Calculator</a> | This project allows users to perform basic arithmetic operations on two numbers using addition, subtraction, multiplication, and division.</li>
 </ul>
 
 
